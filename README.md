@@ -2,7 +2,7 @@
 
 Grupo composto por:
 
-- Felix Sementeira
+- Felix Semente
 - Gustavo Marques
 - Jefferson Andrade
 - João Goes
